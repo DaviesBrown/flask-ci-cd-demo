@@ -1,5 +1,6 @@
 flask
 pytest
+pytest-cov
 flake8
 coverage
 gunicorn
